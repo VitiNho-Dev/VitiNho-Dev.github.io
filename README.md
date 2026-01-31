@@ -1,89 +1,89 @@
-# Política de Privacidade – URL Shortener
+# Privacy Policy – URL Shortener
 
-**Última atualização: 31/01/2026**
+**Last updated: January 31, 2026**
 
-Esta Política de Privacidade descreve como o aplicativo **URL Shortener** trata as informações fornecidas pelos usuários durante o uso do aplicativo.
-
----
-
-## 1. Dados utilizados pelo aplicativo
-
-O aplicativo utiliza exclusivamente as informações inseridas pelo próprio usuário:
-
-- URL original informada para encurtamento  
-- URL curta retornada pelo serviço de encurtamento
-
-Esses dados são utilizados apenas para permitir o funcionamento do aplicativo e para exibir ao usuário um histórico dos links já encurtados.
+This Privacy Policy describes how the **URL Shortener** application handles the information provided by users while using the application.
 
 ---
 
-## 2. Envio de dados para serviço externo
+## 1. Data used by the application
 
-Para realizar o encurtamento das URLs, o aplicativo envia o endereço informado pelo usuário para um serviço de terceiros:
+The application uses exclusively the information entered by the user:
 
-**Serviço utilizado:** encurtador.dev
+- The original URL provided for shortening  
+- The shortened URL returned by the shortening service
 
-O aplicativo atua somente como intermediário entre o usuário e esse serviço. O tratamento das informações pela API externa está sujeito à política de privacidade do provedor **encurtador.dev**, sobre a qual o desenvolvedor deste aplicativo não possui controle.
-
----
-
-## 3. Armazenamento local
-
-O aplicativo possui um banco de dados local no dispositivo do usuário para armazenar:
-
-- URLs originais informadas  
-- Links curtos gerados  
-- Data do encurtamento
-
-Essas informações:
-
-- São armazenadas apenas no próprio aparelho do usuário  
-- Não são enviadas para servidores do desenvolvedor  
-- Não são compartilhadas com terceiros além da API de encurtamento  
-- Podem ser removidas individualmente pelo usuário através do botão de exclusão disponível em cada item do histórico  
-- São totalmente removidas caso o aplicativo seja desinstalado
+This data is used solely to enable the application to function and to display to the user a history of previously shortened links.
 
 ---
 
-## 4. Dados que NÃO coletamos
+## 2. Data sent to third-party service
 
-O aplicativo não coleta:
+To perform URL shortening, the application sends the address provided by the user to a third-party service:
 
-- Nome, e-mail, telefone ou documentos  
-- Localização  
-- Identificadores do dispositivo  
-- Contatos  
-- Dados de uso ou analytics  
+**Service used:** encurtador.dev
+
+The application acts only as an intermediary between the user and this service. The processing of information by the external API is subject to the privacy policy of **encurtador.dev**, over which the developer of this application has no control.
+
+---
+
+## 3. Local storage
+
+The application maintains a local database on the user’s device to store:
+
+- Original URLs entered  
+- Generated shortened links  
+- Date of shortening
+
+This information:
+
+- Is stored only on the user’s own device  
+- Is not sent to the developer’s servers  
+- Is not shared with third parties other than the shortening API  
+- Can be individually removed by the user through the delete button available on each item in the history  
+- Is completely removed if the application is uninstalled
+
+---
+
+## 4. Data we DO NOT collect
+
+The application does **not** collect:
+
+- Name, email, phone number, or documents  
+- Location data  
+- Device identifiers  
+- Contacts  
+- Usage analytics  
 - Cookies  
-- Qualquer informação pessoal além das URLs digitadas pelo próprio usuário
+- Any personal information beyond the URLs entered by the user
 
 ---
 
-## 5. Permissões do aplicativo
+## 5. Permissions
 
-O aplicativo utiliza apenas acesso à internet para comunicação com a API de encurtamento e **não solicita permissões sensíveis** como:
+The application only uses internet access to communicate with the shortening API and **does not request sensitive permissions** such as:
 
-- Câmera  
-- Localização  
-- Contatos  
-- Armazenamento externo
-
----
-
-## 6. Responsabilidades
-
-O usuário é responsável pelo conteúdo das URLs enviadas para encurtamento. O aplicativo não tem acesso ao conteúdo dos sites informados e não se responsabiliza pelo uso que o serviço de terceiros (encurtador.dev) faz dessas informações.
+- Camera  
+- Location  
+- Contacts  
+- External storage
 
 ---
 
-## 7. Alterações nesta política
+## 6. Responsibilities
 
-Esta Política de Privacidade pode ser atualizada para refletir mudanças no aplicativo. Recomenda-se que o usuário consulte este documento periodicamente.
+The user is responsible for the content of the URLs submitted for shortening. The application has no access to the content of the provided websites and is not responsible for the way the third-party service (encurtador.dev) handles this information.
 
 ---
 
-## 8. Contato
+## 7. Changes to this policy
 
-Em caso de dúvidas sobre esta Política de Privacidade, entre em contato:
+This Privacy Policy may be updated to reflect changes in the application. Users are encouraged to review this document periodically.
+
+---
+
+## 8. Contact
+
+If you have any questions about this Privacy Policy, please contact:
 
 📧 **victor121413@gmail.com**
